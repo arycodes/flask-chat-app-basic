@@ -12,7 +12,7 @@ This is a simple chat application built using Flask and Socket.IO. The applicati
 1. Install the required dependencies:
 
    ```bash
-   pip install Flask flask-socketio
+   pip install -r requirements.txt
    ```
 
 2. Run the Flask application:
@@ -21,7 +21,7 @@ This is a simple chat application built using Flask and Socket.IO. The applicati
    python app.py
    ```
 
-3. Open your browser and navigate to [http://localhost:5000](http://localhost:5000).
+3. Open your browser and navigate to [http://127.0.0.1:5000](http://127.0.0.1:5000).
 
 ## Usage
 
@@ -58,3 +58,7 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## About the Author
+
+This Flask Chat App was developed by Aryan Mishra. You can find him on [GitHub](https://github.com/arycodes) and [Instagram](https://instagram.com/arycodes).
